@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Johhny Johnny
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Yes Papa?
 
 ## Getting started
 
